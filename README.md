@@ -530,7 +530,7 @@ Future 🚀 AI Engineer | Robotics Engineer
 
 # 🐍 Contribution Snake
 
-> **Enable this after creating the GitHub Action in your profile repository.**
+> 
 
 <div align="center">
 
